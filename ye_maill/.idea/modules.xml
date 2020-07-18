@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redpig-web/src/main/main.iml" filepath="$PROJECT_DIR$/redpig-web/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-web-admin/src/main/main1.iml" filepath="$PROJECT_DIR$/redpig-web-admin/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-api/redpig-api.iml" filepath="$PROJECT_DIR$/redpig-api/redpig-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-beans/redpig-beans.iml" filepath="$PROJECT_DIR$/redpig-beans/redpig-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-buyer/redpig-buyer.iml" filepath="$PROJECT_DIR$/redpig-buyer/redpig-buyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-chat/redpig-chat.iml" filepath="$PROJECT_DIR$/redpig-chat/redpig-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-circle/redpig-circle.iml" filepath="$PROJECT_DIR$/redpig-circle/redpig-circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-cloud-client-feign/redpig-cloud-client-feign.iml" filepath="$PROJECT_DIR$/redpig-cloud-client-feign/redpig-cloud-client-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-cloud-client-ribbon/redpig-cloud-client-ribbon.iml" filepath="$PROJECT_DIR$/redpig-cloud-client-ribbon/redpig-cloud-client-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-cloud-provider/redpig-cloud-provider.iml" filepath="$PROJECT_DIR$/redpig-cloud-provider/redpig-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-cloud-zuul/redpig-cloud-zuul.iml" filepath="$PROJECT_DIR$/redpig-cloud-zuul/redpig-cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-cms/redpig-cms.iml" filepath="$PROJECT_DIR$/redpig-cms/redpig-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-delivery/redpig-delivery.iml" filepath="$PROJECT_DIR$/redpig-delivery/redpig-delivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-eureka-server/redpig-eureka-server.iml" filepath="$PROJECT_DIR$/redpig-eureka-server/redpig-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-express/redpig-express.iml" filepath="$PROJECT_DIR$/redpig-express/redpig-express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-framework/redpig-framework.iml" filepath="$PROJECT_DIR$/redpig-framework/redpig-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-h5/redpig-h5.iml" filepath="$PROJECT_DIR$/redpig-h5/redpig-h5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-payment/redpig-payment.iml" filepath="$PROJECT_DIR$/redpig-payment/redpig-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-platform/redpig-platform.iml" filepath="$PROJECT_DIR$/redpig-platform/redpig-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-seller/redpig-seller.iml" filepath="$PROJECT_DIR$/redpig-seller/redpig-seller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-sns/redpig-sns.iml" filepath="$PROJECT_DIR$/redpig-sns/redpig-sns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-web-h5/redpig-web-h5.iml" filepath="$PROJECT_DIR$/redpig-web-h5/redpig-web-h5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-web-store/redpig-web-store.iml" filepath="$PROJECT_DIR$/redpig-web-store/redpig-web-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-yungou/redpig-yungou.iml" filepath="$PROJECT_DIR$/redpig-yungou/redpig-yungou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-web-admin/src/test/test.iml" filepath="$PROJECT_DIR$/redpig-web-admin/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpig-web/src/test/test1.iml" filepath="$PROJECT_DIR$/redpig-web/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
